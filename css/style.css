@@ -1,5 +1,7 @@
 body{
-    background-color: grey;
+    background-color: lightcoral;
+    text-align: center;
+    font-family: 'Covered By Your Grace', cursive;
 }
 
 .cool{
@@ -13,4 +15,8 @@ body{
 .cool.red{
     visibility: visible;
     background-color: red;
+}
+
+h1{
+    font-size: 60px;
 }
